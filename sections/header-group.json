@@ -24,16 +24,6 @@
             "color_text": "#ffffff"
           }
         },
-        "acca6658-bd49-4cc7-be9a-c02394ef4917": {
-          "type": "text",
-          "settings": {
-            "icon": "none",
-            "text": "Add campaign text here.",
-            "link": "",
-            "color_bg": "#3f72e5",
-            "color_text": "#ffffff"
-          }
-        },
         "888fc484-50e5-4566-bad6-41e835d00d5f": {
           "type": "text",
           "settings": {
@@ -47,7 +37,6 @@
       },
       "block_order": [
         "955bb93b-7a65-4933-8023-83a64ee46bc2",
-        "acca6658-bd49-4cc7-be9a-c02394ef4917",
         "888fc484-50e5-4566-bad6-41e835d00d5f"
       ],
       "settings": {
