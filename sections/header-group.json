@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -9,10 +18,10 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "Add campaign text here.",
+            "text": "FREE Delivery All Over Lebanon",
             "link": "",
-            "color_bg": "#3F72E5",
-            "color_text": "#FFFFFF"
+            "color_bg": "#3f72e5",
+            "color_text": "#ffffff"
           }
         },
         "acca6658-bd49-4cc7-be9a-c02394ef4917": {
@@ -21,8 +30,8 @@
             "icon": "none",
             "text": "Add campaign text here.",
             "link": "",
-            "color_bg": "#3F72E5",
-            "color_text": "#FFFFFF"
+            "color_bg": "#3f72e5",
+            "color_text": "#ffffff"
           }
         },
         "888fc484-50e5-4566-bad6-41e835d00d5f": {
@@ -31,8 +40,8 @@
             "icon": "none",
             "text": "Add campaign text here.",
             "link": "",
-            "color_bg": "#3F72E5",
-            "color_text": "#FFFFFF"
+            "color_bg": "#3f72e5",
+            "color_text": "#ffffff"
           }
         }
       },
@@ -55,7 +64,7 @@
     "header-secondary-menu": {
       "type": "header-secondary-menu",
       "settings": {
-        "secondary_menu": "secondary",
+        "secondary_menu": "",
         "show_language_switcher": false,
         "show_currency_switcher": true,
         "show_social_media": true
@@ -71,7 +80,10 @@
         "header_shadow": "header--shadow-small",
         "menu": "main-menu",
         "transparent_header": false,
-        "mobile_secondary_menu": ""
+        "mobile_secondary_menu": "",
+        "show_social_links": true,
+        "show_language_switcher": false,
+        "show_currency_switcher": true
       }
     },
     "header-mobile-navigation": {
